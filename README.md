@@ -1,4 +1,6 @@
-## Hi there 👋
+## Asma Gul - Welcome to my Github Page 👋
+
+I am a final year Master's student at Linköping University. I am interested in cancer genetics and bioinformatics.
 
 <!--
 **guleasma/guleasma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
